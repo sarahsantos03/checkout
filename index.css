@@ -1,0 +1,36 @@
+body{
+    background-color:#375696;
+}
+#card{
+    width: 70%;
+    margin: 0 auto;
+    background-color:#d0feff;
+    text-align: center;
+}
+#card2{
+    display: flex;
+    flex-direction: column;
+}
+#botao{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    border-radius: 15px;
+}
+#botao1{
+    background-color:#1c618b;
+    color:#ffffff
+}
+#botao2{
+    background-color: #2d90a7;
+    color:#ffffff
+}
+#botao3{
+    background-color: #3fbfc0;
+    color:#ffffff
+}
+#botao4{
+    background-color: #53f2b8;
+    color:#ffffff
+}
